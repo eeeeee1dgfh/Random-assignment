@@ -1,1 +1,1 @@
-# Random-assignment
+# Random-assignment for participants
